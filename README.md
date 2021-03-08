@@ -4,4 +4,3 @@
 
 ![KimTimo's github stats](https://github-readme-stats.vercel.app/api?username=KimTimo&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=KimTimo)](https://solved.ac/KimTimo)
