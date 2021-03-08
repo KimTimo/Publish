@@ -23,9 +23,11 @@ footer{
 }
 
 .timo{
-    width: 300px;
-    height: 100px;
-    background: aquamarine;
+    border-radius: 25px;
+    background: yellowgreen;
+    padding: 20px;
+    width: 250px;
+    height: 150px;
 }
 /* h1{
     color: blue;
